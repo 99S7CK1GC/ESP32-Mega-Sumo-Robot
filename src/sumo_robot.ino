@@ -1,14 +1,3 @@
-/*
- * Mega Sumo Robot
- * ESP32-based competitive sumo robot
- *
- * Sensors:
- *   - 3x VL53L0X ToF distance sensors (left, center, right)
- *   - 3x IR line sensors (left, center, right)
- *
- * Motors:
- *   - 2x DC motors controlled via PWM (L298N or similar driver)
- */
 
 #include <Wire.h>
 #include <Adafruit_VL53L0X.h>
