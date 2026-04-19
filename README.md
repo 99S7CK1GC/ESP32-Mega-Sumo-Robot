@@ -2,7 +2,7 @@
 
 An autonomous competitive sumo robot built on the ESP32, using ToF distance sensors to hunt opponents and IR line sensors to avoid falling off the dohyo (arena).
 
-> 🥉 **3rd place** at [Roboko](https://www.instagram.com/ieee.enp/), a robotics competition organized by the **IEEE ENP Alger student club** at École Nationale Polytechnique d'Alger.
+> 🥉 **3rd place** at [Roboko](https://www.instagram.com/ieee.enp/), a robotics competition organized by the **IEEE ENP Alger student club** at HIS University.
 
 ---
 
