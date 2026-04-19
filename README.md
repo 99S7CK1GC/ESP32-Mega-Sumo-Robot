@@ -141,18 +141,4 @@ Loop:
   └─ Nothing found?  → wobble forward + periodic sweep
 ```
 
----
 
-## 📁 Repo Structure
-
-```
-sumo_robot/
-├── sumo_robot.ino    # Main Arduino sketch
-└── README.md
-```
-
----
-
-## 📜 License
-
-MIT — do whatever you want with it.
